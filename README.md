@@ -1,7 +1,6 @@
 🚀 Dreamer | Builder | Student of the Game   
 🎓 Learning daily to master code, business & innovation  
-📚 Currently building a student marketplace & social learning platform  
-🛠️ Tech Stack: Python | Django  | Supabase | SQL | Linux | soon...  
+🛠️ Tech Stack: Python | Django  | Supabase | SQL | Linux| etc.. |  
 🤖 Exploring ML, Ethical Hacking, and Full-stack Development  
 📍 On a mission create impact through technology  
 🌱 Motto: “Build boldly, learn endlessly.”  
